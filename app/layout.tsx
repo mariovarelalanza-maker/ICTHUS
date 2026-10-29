@@ -1,0 +1,1 @@
+import './globals.css'; export const metadata={title:'ICTHUS EMANUEL',description:'Ofrendas, movimientos y comprobantes en un solo lugar'};export default function Layout({children}:{children:React.ReactNode}){return <html lang="es"><body>{children}</body></html>}
